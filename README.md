@@ -41,6 +41,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 1. Import the project into local directory
 2. Unzip it, then install the nodemodules folder with "npm -i" in your console.
 3. Once the above steps followed, do npm start into console to run the application.
-4. If the console says "'react-scripts' is not recognized as an internal or external command, operable program or batch file.", Then install: "npm install react-scripts --save" dependecy.
+4. If the console says "'react-scripts' is not recognized as an internal or external command, operable program or batch file.", Then install: "npm install react-scripts --save" dependency.
 5. Once it's done, again write "npm start" and it will run the application at localhost:3000
 
